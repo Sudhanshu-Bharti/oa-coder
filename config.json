@@ -1,4 +1,4 @@
 {
-  "apiKey": "YOUR_OPENAI_API_KEY",
-  "model": "PREFERRED_MODEL_NAME"
+  "apiKey": "API_KEY",
+  "model": "gpt-4o"
 }
